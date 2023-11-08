@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1695916303681" clover="3.2.0">
+  <project timestamp="1695916303681" name="All files">
+    <metrics statements="169" coveredstatements="105" conditionals="47" coveredconditionals="24" methods="30" coveredmethods="20" elements="246" coveredelements="149" complexity="0" loc="169" ncloc="169" packages="3" files="6" classes="6"/>
+    <package name="components.Form">
+      <metrics statements="36" coveredstatements="35" conditionals="17" coveredconditionals="15" methods="11" coveredmethods="7"/>
+      <file name="Form.jsx" path="C:\Travelport\Formulario_Real\Formulario_Real\src\components\Form\Form.jsx">
+        <metrics statements="36" coveredstatements="35" conditionals="17" coveredconditionals="15" methods="11" coveredmethods="7"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="19" type="stmt"/>
+        <line num="11" count="109" type="stmt"/>
+        <line num="12" count="109" type="stmt"/>
+        <line num="13" count="109" type="stmt"/>
+        <line num="14" count="109" type="stmt"/>
+        <line num="15" count="109" type="stmt"/>
+        <line num="17" count="109" type="stmt"/>
+        <line num="19" count="109" type="stmt"/>
+        <line num="20" count="33" type="cond" truecount="4" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="32" type="stmt"/>
+        <line num="28" count="109" type="stmt"/>
+        <line num="29" count="44" type="cond" truecount="4" falsecount="1"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="44" type="stmt"/>
+        <line num="39" count="109" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="42" count="1" type="cond" truecount="6" falsecount="0"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="51" count="109" type="stmt"/>
+        <line num="52" count="4" type="stmt"/>
+        <line num="53" count="4" type="stmt"/>
+        <line num="54" count="4" type="stmt"/>
+        <line num="55" count="4" type="stmt"/>
+        <line num="56" count="4" type="stmt"/>
+        <line num="57" count="4" type="stmt"/>
+        <line num="60" count="109" type="stmt"/>
+        <line num="72" count="109" type="stmt"/>
+        <line num="157" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="116" coveredstatements="65" conditionals="24" coveredconditionals="7" methods="18" coveredmethods="12"/>
+      <file name="useErrorField.jsx" path="C:\Travelport\Formulario_Real\Formulario_Real\src\hooks\useErrorField.jsx">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="276" type="stmt"/>
+        <line num="14" count="436" type="stmt"/>
+      </file>
+      <file name="useField.js" path="C:\Travelport\Formulario_Real\Formulario_Real\src\hooks\useField.js">
+        <metrics statements="54" coveredstatements="41" conditionals="12" coveredconditionals="7" methods="8" coveredmethods="7"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="545" type="stmt"/>
+        <line num="6" count="545" type="stmt"/>
+        <line num="7" count="545" type="stmt"/>
+        <line num="8" count="545" type="stmt"/>
+        <line num="9" count="545" type="stmt"/>
+        <line num="11" count="545" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="545" type="stmt"/>
+        <line num="22" count="122" type="stmt"/>
+        <line num="23" count="122" type="stmt"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="122" type="stmt"/>
+        <line num="31" count="545" type="stmt"/>
+        <line num="32" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="41" count="545" type="stmt"/>
+        <line num="42" count="76" type="cond" truecount="0" falsecount="1"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="50" count="545" type="stmt"/>
+        <line num="52" count="140" type="cond" truecount="1" falsecount="0"/>
+        <line num="53" count="45" type="stmt"/>
+        <line num="54" count="45" type="stmt"/>
+        <line num="55" count="45" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="4" type="stmt"/>
+        <line num="57" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="59" count="41" type="cond" truecount="0" falsecount="1"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="64" count="45" type="cond" truecount="2" falsecount="0"/>
+        <line num="65" count="4" type="stmt"/>
+        <line num="66" count="4" type="stmt"/>
+        <line num="67" count="4" type="stmt"/>
+        <line num="70" count="41" type="stmt"/>
+        <line num="71" count="41" type="stmt"/>
+        <line num="77" count="545" type="stmt"/>
+        <line num="78" count="20" type="stmt"/>
+        <line num="81" count="545" type="stmt"/>
+        <line num="82" count="45" type="stmt"/>
+        <line num="83" count="45" type="stmt"/>
+        <line num="86" count="545" type="stmt"/>
+        <line num="91" count="545" type="stmt"/>
+      </file>
+      <file name="useFormField.jsx" path="C:\Travelport\Formulario_Real\Formulario_Real\src\hooks\useFormField.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="23" count="436" type="stmt"/>
+      </file>
+      <file name="useSelector.js" path="C:\Travelport\Formulario_Real\Formulario_Real\src\hooks\useSelector.js">
+        <metrics statements="54" coveredstatements="18" conditionals="12" coveredconditionals="0" methods="8" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="109" type="stmt"/>
+        <line num="6" count="109" type="stmt"/>
+        <line num="7" count="109" type="stmt"/>
+        <line num="8" count="109" type="stmt"/>
+        <line num="9" count="109" type="stmt"/>
+        <line num="11" count="109" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="109" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="109" type="stmt"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="41" count="109" type="stmt"/>
+        <line num="42" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="50" count="109" type="stmt"/>
+        <line num="51" count="19" type="cond" truecount="0" falsecount="1"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="56" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="58" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="63" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="76" count="109" type="stmt"/>
+        <line num="77" count="4" type="stmt"/>
+        <line num="80" count="109" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="85" count="109" type="stmt"/>
+        <line num="88" count="109" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="17" coveredstatements="5" conditionals="6" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="validateDni.js" path="C:\Travelport\Formulario_Real\Formulario_Real\src\services\validateDni.js">
+        <metrics statements="17" coveredstatements="5" conditionals="6" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="2" count="44" type="stmt"/>
+        <line num="4" count="44" type="cond" truecount="1" falsecount="1"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="44" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="44" type="cond" truecount="0" falsecount="1"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="44" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
